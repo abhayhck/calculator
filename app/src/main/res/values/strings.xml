@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="calc_test">12345 </string>
+</resources>
